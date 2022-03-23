@@ -11,4 +11,4 @@ minesFX.fxml is the file created with SceneBuilder.
 
 MinesFX.java is all the visual aspect of the game, creating a grid to represent the game board, the images of every grid and the win and lose windows.
 
-![](https://gyazo.com/bfbe0032c7fdbfc5b8fa5ee3a9f30092)
+![](https://gyazo.com/bfbe0032c7fdbfc5b8fa5ee3a9f30092.gif)
