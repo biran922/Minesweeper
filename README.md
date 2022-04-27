@@ -1,5 +1,5 @@
 # Minesweeper
-This is a mine sweeper game written in Java, the GUI was written using JavaFX. Minesweeper was built using Java and Javafx , written as an assigment in my second year Java course.
+This is a mine sweeper game written in Java, the GUI was written using JavaFX. written as an assigment in my second year Java course.
 
 mines package
 
